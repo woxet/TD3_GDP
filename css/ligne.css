@@ -5,3 +5,8 @@ h1{
 	text-align: center;
 >>>>>>> css_v2
 }
+
+.menu{
+	background: green;
+	color: blueviolet;
+}
